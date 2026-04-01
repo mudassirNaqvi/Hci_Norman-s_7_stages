@@ -77,7 +77,3 @@ This project explains **Norman’s Execution–Evaluation Cycle**:
 1. Download or copy the project
 2. Open `index.html` in your browser
 3. Click **Start**
-
-
-* add **diagram visualization (boxes + arrows)**
-* or combine this with your **Reaction Time Game** into one HCI project for submission 👍
